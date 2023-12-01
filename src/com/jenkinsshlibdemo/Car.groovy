@@ -12,7 +12,7 @@ class Car {
     }
 
 
-   void printOurCar() {
+   void printOutCar() {
       script.echo "Using the script.echo"
       script.echo "numberOfDoors:${numberOfDoors}"
       script.echo "brand:${brand}"
