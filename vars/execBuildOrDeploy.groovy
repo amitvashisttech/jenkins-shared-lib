@@ -34,7 +34,7 @@ def call(String command) {
             stages {
                  stage('Nothing to Run') {
                              steps {
-                                  echo "I'm lazy & No Going to do anything"
+                                  echo "I'm lazy & Not Going to do anything"
                              }
                  }
            }
