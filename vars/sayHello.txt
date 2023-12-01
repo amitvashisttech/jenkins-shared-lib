@@ -1,0 +1,5 @@
+def call(String name = 'human') {
+    echo "Welcome to the world of Shared Lib.!, Mr. ${name}"
+}
+
+This function will print out the input parameter name. 
