@@ -1,3 +1,5 @@
-def printName(name){
-    echo "Hi, ${name}"
+#!/usr/bin/env groovy
+
+def call(String name = 'human') {
+    echo "Hi, Mr. ${name}"
 }
