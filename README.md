@@ -40,10 +40,11 @@ Open Jenkins and navigate to "Manage Jenkins" > "Configure System."
 Find the "Global Pipeline Libraries" section.
 
 Add a new library:
+```
     Name: Give your library a name (e.g., MySharedLibrary).
     Source Code Management: Choose the version control system (e.g., Git).
     Project Repository: Provide the URL to your shared library repository.
-
+```
 Save the configuration.
 
 ### 6. Use the Shared Library in Jenkins Pipelines:
