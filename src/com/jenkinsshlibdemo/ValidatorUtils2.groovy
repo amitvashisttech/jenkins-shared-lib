@@ -1,6 +1,6 @@
 package com.jenkinsshlibdemo; 
 
-class ValidatorUtils {
+class ValidatorUtils2 {
     static def validateInput(script) {
       script.echo "In static validateInput()"
    }
