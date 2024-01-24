@@ -42,7 +42,7 @@ Find the "Global Pipeline Libraries" section.
 Add a new library:
 ```
     Name: Give your library a name (e.g., MySharedLibrary).
-    Default Vesion: would your git repo banch name. 
+    Default Vesion: would be your git repo banch name. 
     Source Code Management: Choose the version control system (e.g., Git).
     Project Repository: Provide the URL to your shared library repository.
 ```
